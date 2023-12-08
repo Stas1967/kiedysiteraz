@@ -1,8 +1,7 @@
 # Web App for Company - Car buy & sale with crm
 
-# Website Development for Car Sales and Purchase Company #WebsiteDevelopment
+# 1 Website Development for Car Sales and Purchase Company #WebsiteDevelopment
 
-- [ ] Domain Name Registration
 - [ ] Website Design
   - [ ] Home Page
   - [ ] About Us Page
@@ -15,7 +14,7 @@
 - [ ] Website Testing
 - [ ] Website Launch
 
-# Customer Relationship Management (CRM) System #CRMSystem
+# 2 Customer Relationship Management (CRM) System #CRMSystem
 
 - [ ] CRM System Planning
 - [ ] CRM System Design
@@ -29,7 +28,7 @@
 - [ ] CRM System Testing
 - [ ] CRM System Deployment
 
-# Website and CRM System Integration #Integration
+# 3 Website and CRM System Integration #Integration
 
 1. Define requirements for integration
 2. Plan integration process
@@ -37,14 +36,14 @@
 4. Test integration
 5. Deploy integrated system
 
-# Post-Launch Support and Maintenance #SupportAndMaintenance
+# 4 Post-Launch Support and Maintenance #SupportAndMaintenance
 
 - [ ] Provide Technical Support
 - [ ] Regular System Updates
 - [ ] Regular System Backups
 - [ ] Perform Regular System Audits and Fixes
 
-# Marketing and SEO #MarketingAndSEO
+# 5 Marketing and SEO #MarketingAndSEO
 
 - [ ] Plan Marketing Strategies
 - [ ] Execute Marketing Strategies
@@ -54,9 +53,8 @@
   - [ ] Off-page SEO
 - [ ] Monitor Website Traffic and SEO Performance
 
-# Regular Reporting #Reporting
+# 6 Regular Reporting #Reporting
 
-- [ ] Weekly Status Reports
 - [ ] Monthly Performance Reports
 - [ ] Quarterly Review Reports
 - [ ] Annual Reports
