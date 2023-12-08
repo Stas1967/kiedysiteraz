@@ -1,0 +1,21 @@
+{
+  "projects": {
+    "default": "kiedysiteraz-6764e"
+  },
+  "targets": {
+    "kiedysiteraz-6764e": {
+      "hosting": {
+        "web-kiedysiteraz": [
+          "web"
+        ],
+        "admin-kiedysiteraz": [
+          "admin"
+        ],
+        "blog": [
+          "web-blog"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}

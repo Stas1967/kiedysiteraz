@@ -25,6 +25,7 @@
               "projects/web/src/assets"
             ],
             "styles": [
+              "@angular/material/prebuilt-themes/pink-bluegrey.css",
               "projects/web/src/styles.css"
             ],
             "scripts": []
@@ -84,6 +85,7 @@
               "projects/web/src/assets"
             ],
             "styles": [
+              "@angular/material/prebuilt-themes/pink-bluegrey.css",
               "projects/web/src/styles.css"
             ],
             "scripts": []
@@ -113,6 +115,7 @@
               "projects/admin/src/assets"
             ],
             "styles": [
+              "@angular/material/prebuilt-themes/indigo-pink.css",
               "projects/admin/src/styles.css"
             ],
             "scripts": []
@@ -172,6 +175,7 @@
               "projects/admin/src/assets"
             ],
             "styles": [
+              "@angular/material/prebuilt-themes/indigo-pink.css",
               "projects/admin/src/styles.css"
             ],
             "scripts": []
